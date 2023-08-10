@@ -1,6 +1,6 @@
 # Realtime-Face-Emotion-Recognition-Tensorflow
 
-Large files codes and datasets in on my google drive
+Large files codes and datasets in on my google drive (Github doesn't allow to push files more than 100MB)
 
 In Google Drive, there are Screenshots of the working model
 
