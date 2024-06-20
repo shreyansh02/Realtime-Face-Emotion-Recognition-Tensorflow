@@ -2,7 +2,7 @@
 
 Large files codes and datasets in on my google drive (Github doesn't allow to push files more than 100MB)
 
-In Google Drive, there are Screenshots of the working model
+In Google Drive, you will find the complete working codes, training & testing sets, and screenshots of working model
 
 ● The goal of the project is to perform Emotional Recognition through Facial Expressions using the Deep Learning model of
 Convolutional Neural Networks (CNNs)
